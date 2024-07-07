@@ -1,8 +1,8 @@
-<h1>Online Booking Appointment</h1>
+<h1>MediBook Online</h1>
 
 ### Overview
 
-**Online Booking Appointment** is a robust healthcare appointment booking system designed to facilitate seamless interactions between patients and healthcare providers. This system aims to streamline the process of booking, managing, and tracking appointments, ensuring a smooth and efficient experience for both patients and doctors.
+**MediBook Online** is a robust healthcare appointment booking system designed to facilitate seamless interactions between patients and healthcare providers. This system aims to streamline the process of booking, managing, and tracking appointments, ensuring a smooth and efficient experience for both patients and doctors.
 
 ### Key Features
 
