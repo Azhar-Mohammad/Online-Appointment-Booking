@@ -1,4 +1,4 @@
-<p>Collaboration with @chegurishashikanth</p>@chegurishashikanth
+<p>Collaboration with @chegurishashikanth</p>
 <h1>MediBook Online</h1>
 
 ### Overview
