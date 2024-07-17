@@ -1,7 +1,7 @@
 <p>Collaboration with @chegurishashikanth</p>
 <h1>MediBook Online</h1>
-Project Demo: https://bit.ly/onlinebooking22
-### Overview
+###Project Demo: https://bit.ly/onlinebooking22
+<h3>Overview</h3>
 
 **MediBook Online** is a robust healthcare appointment booking system designed to facilitate seamless interactions between patients and healthcare providers. This system aims to streamline the process of booking, managing, and tracking appointments, ensuring a smooth and efficient experience for both patients and doctors.
 
